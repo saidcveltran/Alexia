@@ -1,0 +1,12 @@
+#miBoton {
+    background-color: rgba(255, 192, 203, 0.8);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    justify-content: center;
+  }
+
+
